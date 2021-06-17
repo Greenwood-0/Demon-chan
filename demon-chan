@@ -92,6 +92,46 @@
         "Harmless Monsters": "/proxy/api/imgur/chapter/xuoIBbo/"
       },
       "last_updated": "1548176400"
+    },
+    "10": {
+      "title": "Exorcist-chan and Demon-chan 1",
+      "volume": "1",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/Kkz6Tmq/"
+      },
+      "last_updated": "1549040400"
+    },
+    "11": {
+      "title": "Exorcist-chan and Demon-chan 2",
+      "volume": "1",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/vMrwi01/"
+      },
+      "last_updated": "1550941200"
+    },
+    "12": {
+      "title": "Exorcist and XXX-chan",
+      "volume": "1",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/CFGTZkf/"
+      },
+      "last_updated": "1552323600"
+    },
+    "13": {
+      "title": "Sleepover and Demon-chan",
+      "volume": "1",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/TDch1z9/"
+      },
+      "last_updated": "1553533200"
+    },
+    "13.3": {
+      "title": "Volume 1 Extra",
+      "volume": "1",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/WasUXEn/"
+      },
+      "last_updated": "1553792400"
     }
   }
 }
