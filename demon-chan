@@ -132,6 +132,22 @@
         "Harmless Monsters": "/proxy/api/imgur/chapter/WasUXEn/"
       },
       "last_updated": "1553792400"
+    },
+    "13.4": {
+      "title": "Volume 1 Ad",
+      "volume": "1",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/5yrcODc/"
+      },
+      "last_updated": "1553792400"
+    },
+    "13.5": {
+      "title": "Exorcist, Dress Shirt, and Demon-chan.",
+      "volume": "1",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/x7HoAIO/"
+      },
+      "last_updated": "1550077200"
     }
   }
 }
