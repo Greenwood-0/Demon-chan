@@ -7,7 +7,7 @@
   "chapters": {
     "39": {
       "title": "Evan and Lily-chan 2",
-      "volume": "3",
+      "volume": "4",
       "groups": {
         "Harmless Monsters": "/proxy/api/imgur/chapter/vXoCfi8/"
       },
@@ -372,6 +372,14 @@
         "Harmless Monsters": "/proxy/api/imgur/chapter/KkCR3JJ/"
       },
       "last_updated": "1615654800"
+    },
+    "38.1": {
+      "title": "Chapter Zero - Exorcist and Demon",
+      "volume": "3",
+      "groups": {
+        "Harmless Monsters": "/proxy/api/imgur/chapter/9ci8F5U/"
+      },
+      "last_updated": "1581008400"
     }
   }
 }
